@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate **Data Analyst** with a strong foundation in Python programming, SQL, and data visualization. My expertise includes web scraping, statistical analysis, and creating insightful dashboards using Power BI and Google Data Studio. I am always eager to dive into data, uncover patterns, and provide actionable insights to solve business problems.<br><br>I hold a **Bachelor’s degree in Computer Science** and have hands-on experience in projects ranging from election predictions to stock market analysis. I am constantly exploring new techniques and tools to stay at the forefront of data analytics.
+I am a passionate **Data Analyst** with a strong foundation in Python programming, SQL, and data visualization. My expertise includes web scraping, statistical analysis, and creating insightful dashboards using Power BI and Google Data Studio. I am always eager to dive into data, uncover patterns, and provide actionable insights to solve business problems.<br><br>I hold a **Bachelor’s degree in Computer Science** and have hands-on experience in projects ranging from election predictions and stock market analysis. I am constantly exploring new techniques and tools to stay at the forefront of data analytics.
 
 
 ## 🌐 Socials:
